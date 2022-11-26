@@ -25,7 +25,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -37,6 +38,7 @@
       <option name="presentableId" value="Default" />
       <updated>1669500021863</updated>
       <workItem from="1669500029054" duration="1108000" />
+      <workItem from="1669506207706" duration="172000" />
     </task>
     <task id="LOCAL-00001" summary="start of the project">
       <created>1669500780152</created>
