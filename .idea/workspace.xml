@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0cdbb562-108c-46be-8d80-ff5b3849241e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Landing-Page-One.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project One/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project One/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project One/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="0cdbb562-108c-46be-8d80-ff5b3849241e" name="Changes" comment="start of the project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,8 +36,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669500021863</updated>
-      <workItem from="1669500029054" duration="532000" />
+      <workItem from="1669500029054" duration="1108000" />
     </task>
+    <task id="LOCAL-00001" summary="start of the project">
+      <created>1669500780152</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669500780152</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -62,5 +61,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="start of the project" />
+    <option name="LAST_COMMIT_MESSAGE" value="start of the project" />
   </component>
 </project>
